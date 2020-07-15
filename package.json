@@ -1,0 +1,33 @@
+{
+  "name": "@ovnicode/uweho-node-sdk",
+  "version": "0.0.0",
+  "description": "Uweho Node.js SDK",
+  "main": "dist/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
+  "devDependencies": {
+    "typescript": "^3.9.6"
+  },
+  "scripts": {
+    "test": "echo \"Not Specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ovnicode/uweho-node-sdk.git"
+  },
+  "keywords": [
+    "uweho",
+    "webhooks",
+    "callback"
+  ],
+  "author": "Ovnicode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ovnicode/uweho-node-sdk/issues"
+  },
+  "homepage": "https://github.com/ovnicode/uweho-node-sdk#readme"
+}
